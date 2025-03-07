@@ -65,3 +65,6 @@ log_events=1
 | `log_events`     | Boolean        | 0, 1                 | 1                  | Determines if the program should log terminal outputs                                  |
 | `log_binaries`   | Boolean        | 0, 1                 | 1                  | Determines if the program should log every binary file it uploads to Neocities         |
 
+---
+
+_*Not affiliated with Neocities_
